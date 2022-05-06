@@ -1,0 +1,12 @@
+.click{
+    background-color: black;
+    color:white ;
+    font-weight: bold;
+}
+.noclick{
+    background-color: yellow;
+}
+.fonts{
+    font-family:  Helvetica, sans-serif;
+    
+}
