@@ -7,12 +7,16 @@ body {
   font-family: Roboto, sans-serif;
   display: flex;
   flex-direction: column;
+  
+  
 
  
 }
 
+
 img {
   width: 600px;
+ 
 }
 
 button {
@@ -20,6 +24,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 15px;
 }
 
 input {
@@ -32,7 +37,11 @@ input {
 .content{
     display: flex;
     align-items: center;
+    justify-content: center;
    flex-direction: column;
+   flex: 1;
+   
+
    
 }
 a {
@@ -58,8 +67,9 @@ a {
   }
  
   .footer {
+     
     background: #eee;
-    margin-top: 0px;
-    padding: 5px;
+    margin: 0;
+    padding: 15px;
   }
   
